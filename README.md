@@ -60,6 +60,8 @@ Friends call me Giallo, a computer engineer with a passion for 🤖 Artificial I
 
 <p>🌳 Don't forget to take time for yourself and enjoy nature 🌳</p>
 
+<h2> 📬 Latest Posts : </h2>
+
 <!-- BLOG-POST-LIST:START -->
 - [Serverless Apache Zeppelin on AWS](https://gmucciolo.it/serverless-zeppelin-on-aws/)
 - [CloudFormation Blue / Green Deploy](https://gmucciolo.it/blue-green-deploy/)
