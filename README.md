@@ -26,9 +26,9 @@ Friends call me Giallo, a computer engineer with a passion for 🤖 Artificial I
 <h2> :man_technologist: A Few Quick Facts :</h2>
 
 <ul>
-  <li>:cloud: I am a Senior Cloud Solution Architect <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy.</li>
-  <li>💻 I am an AWS Authorized Instructor, recognized for my experience with Agile and DevOps methodologies.</li>
-  <li>💬 I love sharing knowledge and have conducted official AWS courses and participated in the AWS Community Builder program.</li>
+  <li>:cloud: I am a Senior Cloud Solution Architect <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy, working with Agile and DevOps methodologies.</li>
+  <li>💻 I am an AWS Authorized Instructor, recognized for my experience with AWS Cloud.</li>
+  <li>💬 I love sharing knowledge and have conducted official AWS courses and participated in the AWS Community Builder Program.</li>
   <li>🤝 A strong team player, I am equally comfortable working independently to deliver exceptional results.</li>
   <li>📚 In my free time, I enjoy meaningful conversations, reading books, and taking nature walks to recharge and inspire new ideas.</li>
   <li>💻 If you're interested in connecting, feel free to reach out! I'm always eager to learn and grow.</code></li>
