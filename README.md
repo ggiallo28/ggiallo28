@@ -59,3 +59,6 @@ Friends call me Giallo, a computer engineer with a passion for 🤖 Artificial I
 ---
 
 <p>🌳 Don't forget to take time for yourself and enjoy nature 🌳</p>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
