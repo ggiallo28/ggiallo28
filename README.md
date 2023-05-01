@@ -63,8 +63,8 @@ Friends call me Giallo, a computer engineer with a passion for 🤖 Artificial I
 <h2> 📬 Latest Posts : </h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [Serverless Apache Zeppelin on AWS](https://gmucciolo.it/serverless-zeppelin-on-aws/)
-- [CloudFormation Blue / Green Deploy](https://gmucciolo.it/blue-green-deploy/)
 - [Initial Commit](https://gmucciolo.it/initial-commit/)
-- [Spark and Hadoop Developer](https://gmucciolo.it/spark-and-hadoop-developer/)
+- [Do you Automate?](https://gmucciolo.it/do-you-automate/)
+- [Create a Personal Website](https://gmucciolo.it/create-a-personal-website/)
+- [Infrastructure as Code CloudFormation](https://gmucciolo.it/cloudoformation-iac/)
 <!-- BLOG-POST-LIST:END -->
