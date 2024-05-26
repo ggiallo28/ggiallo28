@@ -20,7 +20,7 @@
 
 </br>
 <p>
-Friends call me Giallo, a computer engineer with a passion for 🤖 Artificial Intelligence and 💾 Big Data. With over 6 years of experience in AWS cloud solutions, I bring a wealth of technical knowledge and expertise to the table.
+Friends call me Giallo, a computer engineer with a passion for 🤖 Artificial Intelligence and 💾 Big Data. Since 2017, I have been working with AWS cloud solutions, bringing a wealth of technical knowledge and expertise to the table.
 </p>
 
 <h2> :man_technologist: A Few Quick Facts :</h2>
