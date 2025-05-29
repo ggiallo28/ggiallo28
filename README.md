@@ -6,9 +6,6 @@
   <a href="https://www.linkedin.com/in/mucciolo91/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Giallo's LinkedIn"/>
   </a>
-  <a href="https://comehome.fun/users/comehomer/60c0ebc340462c5da41e6f12">
-    <img src="https://img.shields.io/badge/Comehome.fun-red?style=for-the-badge&logo=tbd&logoColor=white" alt="Comehome's Badge"/>
-  </a>
   <a href="https://gmucciolo.it/">
     <img src="https://img.shields.io/badge/PubliiBlog-blue?style=for-the-badge&logo=tbd&logoColor=white" alt="Publii's Badge"/>
   </a>
