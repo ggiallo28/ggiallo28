@@ -3,13 +3,17 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/mucciolo91/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Giallo's LinkedIn"/>
+  <a href="https://www.linkedin.com/in/ggiallo28/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Gianluigi's LinkedIn"/>
   </a>
   <a href="https://gmucciolo.it/">
-    <img src="https://img.shields.io/badge/PubliiBlog-blue?style=for-the-badge&logo=tbd&logoColor=white" alt="Publii's Badge"/>
+    <img src="https://img.shields.io/badge/PubliiBlog-blue?style=for-the-badge&logo=tbd&logoColor=white" alt="Gianluigi's Blog"/>
+  </a>
+  <a href="https://www.manning.com/authors/gianluigi-mucciolo">
+    <img src="https://img.shields.io/badge/Manning%20Author-orange?style=for-the-badge" alt="Gianluigi as Author"/>
   </a>
 </div>
+
 <h1 align="center">
   Ciao, I'm Gianluigi!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
